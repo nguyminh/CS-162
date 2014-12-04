@@ -1,0 +1,1 @@
+g++ -std=c++0x -o lab1 main.cpp g.cpp f.cpp f.h g.h
